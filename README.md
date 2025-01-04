@@ -2,9 +2,10 @@
 # Analisis Dataset Spotify
 
 Oleh : 
-Nurvianto Akbar Ikhsani (202110370311123)
-Pramestya Hilal Syahfigral Adzani (202110370311129)
-Mohamad Ferdyansyah (202110370311137)
+
+ 1. Nurvianto Akbar Ikhsani (202110370311123) 
+ 2. Pramestya Hilal Syahfigral Adzani (202110370311129) 
+ 3. Mohamad Ferdyansyah (202110370311137)
 
 ## Pendahuluan
 
